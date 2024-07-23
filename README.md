@@ -58,13 +58,6 @@ The backend should now be running on `http://localhost:4000`.
 - **GET /video/metadata**: Get all video metadata.
 - **POST /video/createvideo**: Add a new video metadata.
 
-### Lectures
-
-- **GET /lecture/instructorLecture/:instructorId**: Get all lectures for a specific instructor.
-- **POST /lecture/assigncourse**: Add Lecture to a specific instructor.
-- **GET /lecture/getAlllecture**: Get all lectures for a all instructor in admin side.
-
-
 ## Project Structure
 
 ```markdown
